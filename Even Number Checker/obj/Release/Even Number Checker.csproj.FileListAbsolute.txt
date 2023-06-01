@@ -1,0 +1,11 @@
+C:\Users\Cryst\source\repos\Even Number Checker\obj\Release\Even Number Checker.csproj.AssemblyReference.cache
+C:\Users\Cryst\source\repos\Even Number Checker\obj\Release\Even Number Checker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cryst\source\repos\Even Number Checker\obj\Release\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Cryst\source\repos\Even Number Checker\obj\Release\Even Number Checker.csproj.GenerateResource.cache
+C:\Users\Cryst\source\repos\Even Number Checker\obj\Release\Even Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\Cryst\source\repos\Even Number Checker\bin\Release\Even Number Checker.exe.config
+C:\Users\Cryst\source\repos\Even Number Checker\bin\Release\Even Number Checker.exe
+C:\Users\Cryst\source\repos\Even Number Checker\bin\Release\Even Number Checker.pdb
+C:\Users\Cryst\source\repos\Even Number Checker\obj\Release\Even Number Checker.exe
+C:\Users\Cryst\source\repos\Even Number Checker\obj\Release\Even Number Checker.pdb
+C:\Users\Cryst\source\repos\Even Number Checker\obj\Release\WindowsFormsApp3.NumCheckForm.resources
